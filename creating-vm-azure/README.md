@@ -73,60 +73,13 @@ Cloud-based auditing helps flag any resource that is out of compliance with corp
 Two types of management capabilities for cloud computing:
 
 **Cloud Management** (managing your cloud resources):
+
 - Automatically scale resource deployment based on need
 - Deploy resources based on pre-configured templates
 
 **Management in the Cloud** (managing your cloud environment):
+
 - Through a web portal
 - Using a command-line interface
 - Using APIs
 - Using PowerShell
-
----
-
-## Challenge Delivery
-
-To complete this challenge, you must:
-
-- Watch all video lessons
-- Do not skip any step!
-
-Create a public GitHub repository containing:
-- A detailed README.md file (this document)
-- Any additional files relevant to document your experience
-- Optionally, relevant screenshots organized in an `/images` folder
-
----
-
-## Useful Resources
-
-### Official Documentation
-- [Quickstart: Create a Windows virtual machine in the Azure Portal](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal) - Microsoft Learning Article
-
-### Complementary Materials on GitHub
-- [GitHub Quick Start](https://github.com/skills) - Repository with links to Git and GitHub lessons
-- [GitBook: GitHub Certification Formation](https://training.github.com/) - Textual material about GitHub
-- [GitHub Documentation](https://docs.github.com/) - Complete guide for using GitHub
-- [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github) - Specific guide for Markdown on GitHub
-
----
-
-## Project Experience
-
-This repository documents my experience completing the Azure Virtual Machines challenge from DIO's Azure Fundamentals course.
-
-### What I Learned
-
-- Azure cloud benefits: High availability, scalability, elasticity, reliability, predictability, security, governance, and manageability
-- VM deployment through the Azure Portal
-- Cloud resource management best practices
-
-### Technologies Used
-
-- Microsoft Azure
-- Azure Virtual Machines
-- Git / GitHub
-
----
-
-*Challenge part of DIO's Azure Fundamentals course - AZ-900*
